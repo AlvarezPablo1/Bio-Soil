@@ -12,7 +12,7 @@ const AdvantagesCard = () => {
         <p className='w-[300px] md:w-[330px] text-[17px] font-thin pt-5'>Each product is specially handcrafted with natural enhanced ingredients of the highest quality.</p>
       </section>
 
-      <section className='flex flex-col  items-center min-[1440px]:mx-10 lg:px-2 min-[1440px]:px-10 my-10 lg:my-0 text-center lg:border-x border-[#D8D8D8] '>
+      <section className='flex flex-col  items-center min-[1440px]:mx-10 lg:px-1 min-[1440px]:px-10 my-10 lg:my-0 text-center lg:border-x border-[#D8D8D8] '>
         <Image src={advantageTwo} alt='advantages'/>
         <p  className='w-[300px] md:w-[330px] text-[17px] font-thin pt-5'>Proudly formulated in Pennsylvania, our products are research-driven, incorporating the lowest effective dosages of inputs and complimentary natural products to support desired benefits.</p>
       </section>

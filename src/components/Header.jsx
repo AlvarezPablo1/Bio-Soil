@@ -35,7 +35,7 @@ const Header = () => {
             </section>
             <p className="text-[22px] lg:text-[27px] min-[1440px]:text-[45px] w-[308px] lg:w-[470px] font-[900]">Nature Inspired, Science-Supported Consumables </p>
             </section>
-            <section className="flex flex-col gap-y-5 h-[121px] w-[314px] lg:w-[420px] text-[16px] lg:text-[20px] font-[600] lg:pl-4">
+            <section className="flex flex-col gap-y-5 h-[121px] w-[310px] lg:w-[420px] text-[16px] lg:text-[20px] font-[600] lg:pl-4">
               <section className="flex items-center gap-x-2">
                 <Image src={check} alt="check"/>
                 <p> Science supported products </p>
